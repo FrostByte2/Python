@@ -1,4 +1,4 @@
-print("this is written by ben all copyrights go to him")
+print("Local SMS")
 print("this is still in prototype form")
 from tkinter import *
 import random
